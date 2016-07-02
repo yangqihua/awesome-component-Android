@@ -15,10 +15,16 @@
 
 <h3>2.功能介绍和演示</h3>
     <p>1.四个fragment实现导航栏</p>
+    ![image](https://github.com/yangqihua/awesome-component-Android/tree/master/screenshots/test1.gif)
     <p>2.一个viewpager和四个fragment实现导航栏</p>
+    ![image](https://github.com/yangqihua/awesome-component-Android/tree/master/screenshots/test2.gif)
     <p>3.一个fragment和四个viewpager实现导航栏</p>
+    ![image](https://github.com/yangqihua/awesome-component-Android/tree/master/screenshots/test3.gif)
     <p>4.实现下拉刷新和上拉加载更多效果</p>
+    ![image](https://github.com/yangqihua/awesome-component-Android/tree/master/screenshots/test4.gif)
     <p>5.仿各大主流app的下拉选择菜单</p>
+    ![image](https://github.com/yangqihua/awesome-component-Android/tree/master/screenshots/test5.gif)
     <p>6.实现图片轮转广告栏</p>
+    ![image](https://github.com/yangqihua/awesome-component-Android/tree/master/screenshots/test6.gif)
     <p>7.两行代码实现万能ListView适配器</p>
     <p><a href="https://github.com/CaMnter/EasySlidingTabs.git">8.viewpager参考</a></p>
