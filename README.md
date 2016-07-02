@@ -21,3 +21,4 @@
     <p>5.仿各大主流app的下拉选择菜单</p>
     <p>6.实现图片轮转广告栏</p>
     <p>7.两行代码实现万能ListView适配器</p>
+    <p><a href="https://github.com/CaMnter/EasySlidingTabs.git">8.viewpager参考</a></p>
