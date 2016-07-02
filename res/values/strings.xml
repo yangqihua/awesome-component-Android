@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test</string>
+    <string name="hello_world">Hello world!11</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test1">Test1Activity</string>
+    <string name="title_activity_test2">Test2Activity</string>
+    <string name="title_activity_test3">Test3Activity</string>
+    <string name="title_activity_test4">Test4Activity</string>
+    <string name="title_activity_test5">Test5Activity</string>
+    <string name="title_activity_test6">Test6Activity</string>
+    <string name="title_activity_test7">Test7Activity</string>
+    <string name="title_activity_test8">Test8Activity</string>
+
+</resources>
