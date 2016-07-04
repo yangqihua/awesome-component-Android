@@ -14,7 +14,7 @@
 
 MainActivity进入后的界面：<br/>
 
- <img src="http://119.29.4.130/screenshots/awesome-component-Android/main.jpg" width="30%"><br/><br/>
+ <img src="https://github.com/yangqihua/awesome-component-Android/blob/master/screenshots/main.jpg" width="30%"><br/><br/>
 
 
 ##2.功能介绍和演示
