@@ -14,34 +14,34 @@
 
 MainActivity进入后的界面：<br/>
 
- <img src="http://119.29.4.130/screenshots/awesome-component-Android/main.jpg" width="40%"><br/><br/>
+ <img src="http://119.29.4.130/screenshots/awesome-component-Android/main.jpg" width="30%"><br/><br/>
 
 
 ##2.功能介绍和演示
 
 * 四个fragment实现导航栏
 
-    <img src="http://119.29.4.130/screenshots/awesome-component-Android/test1.gif" width="40%"><br/><br/>
+    <img src="http://119.29.4.130/screenshots/awesome-component-Android/test1.gif" width="30%"><br/><br/>
 
 * 一个viewpager和四个fragment实现导航栏
 
-    <img src="http://119.29.4.130/screenshots/awesome-component-Android/test2.gif" width="40%"><br/><br/>
+    <img src="http://119.29.4.130/screenshots/awesome-component-Android/test2.gif" width="30%"><br/><br/>
     
 * 一个fragment和四个viewpager实现导航栏
     
-    <img src="http://119.29.4.130/screenshots/awesome-component-Android/test3.gif" width="40%"><br/><br/>
+    <img src="http://119.29.4.130/screenshots/awesome-component-Android/test3.gif" width="30%"><br/><br/>
     
 * 实现下拉刷新和上拉加载更多效果
     
-    <img src="http://119.29.4.130/screenshots/awesome-component-Android/test4.gif" width="40%"><br/><br/>
+    <img src="http://119.29.4.130/screenshots/awesome-component-Android/test4.gif" width="30%"><br/><br/>
 
 * 仿各大主流app的下拉选择菜单
     
-    <img src="http://119.29.4.130/screenshots/awesome-component-Android/test5.gif" width="40%"><br/><br/>
+    <img src="http://119.29.4.130/screenshots/awesome-component-Android/test5.gif" width="30%"><br/><br/>
 
 * 实现图片轮转广告栏
     
-    <img src="http://119.29.4.130/screenshots/awesome-component-Android/test6.gif" width="40%"><br/><br/>
+    <img src="http://119.29.4.130/screenshots/awesome-component-Android/test6.gif" width="30%"><br/><br/>
 
 * 两行代码实现万能ListView适配器(ListViewAdapter):
     * 复制cn.yang.utils包中的CommonAdapter和ViewHolder到自己的项目中
